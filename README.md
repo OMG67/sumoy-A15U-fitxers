@@ -6,8 +6,8 @@ Per a incloure videojocs hi haurà una funció anomenada addGame.
 
 Per a eliminar un videojoc hi haurà una funció anomenada deleteGame.
 
-Per a mostrar els videojocs hi haurà una funció anomenada showGames.
+Per a mostrar els videojocs hi haurà un mètode anomenat showGames.
 
-Per a mostrar els desenvolupadors hi haurà una funció anomenada showDevs.
+Per a mostrar els desenvolupadors hi haurà un mètode anomenat showDevs.
 
-Per a separar els videojocs s'emplearà ```#```, i per separar desenvolupadors s'emplearà ```º```
+Per a separar els videojocs s'emplearà ```#```, i per separar desenvolupadors s'emplearà ```º```.
