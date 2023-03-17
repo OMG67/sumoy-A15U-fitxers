@@ -11,3 +11,5 @@ Per a mostrar els videojocs hi haurà un mètode anomenat showGames.
 Per a mostrar els desenvolupadors hi haurà un mètode anomenat showDevs.
 
 Per a separar els videojocs s'emplearà ```#```, i per separar desenvolupadors s'emplearà ```º```.
+
+S'haurà d'emplear Try:Exception com a mínim a incloure i eliminar videojocs.
