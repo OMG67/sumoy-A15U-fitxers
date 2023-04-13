@@ -1,15 +1,15 @@
 # Enunciat
 
-Fer una base de dades de videojocs que permeti incloure i eliminar jocs a la base de dades, a més a més ha de poder mostrar els videojocs que existeixen, també hi haurà **desenvolupadors**, tot i que no es podràn incloure o eliminar si s'hauràn de poder mostrar.
+L'activitat consisteix a desenvolupar un programa que gestioni una base de dades de videojocs. L'arxiu que contindrà aquesta informació s'anomenarà "VGDB.txt", els noms estaràn separats per "#", la categoría per "$", la plataforma principal per "/", el desenvolupador per "@" i el preu per "&".
 
-Per a incloure videojocs hi haurà una funció anomenada addGame.
+El programa ha de ser capaç de realitzar les funcions següents: afegir un videojoc (addGame), eliminar un videojoc (deleteGame), mostrar tots els videojocs (showGames) i mostrar els desenvolupadors (showDevs). 
 
-Per a eliminar un videojoc hi haurà una funció anomenada deleteGame.
+Les dades dels desenvolupadors es trobaran en un arxiu anomenat "DBD.txt", i estaran separades per "º".
+Per garantir la seguretat, s'utilitzarà la clàusula "Try:Exception" per a incloure i eliminar videojocs.
 
-Per a mostrar els videojocs hi haurà un mètode anomenat showGames.
-
-Per a mostrar els desenvolupadors hi haurà un mètode anomenat showDevs.
-
-Per a separar els videojocs s'emplearà ```#```, i per separar desenvolupadors s'emplearà ```º```.
-
-S'haurà d'emplear Try:Exception com a mínim a incloure i eliminar videojocs.
+<br>
+**Al fitxer de l'aplicació s'haurà d'incloure aquestes funcions:**
+Opció per mostrar videojocs
+Opció per incloure videojocs
+Opció per eliminar videojocs
+Opció per mostrad desenvolupadors
